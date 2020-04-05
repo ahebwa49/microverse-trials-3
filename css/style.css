@@ -1,7 +1,14 @@
-#tribute-info{
-    text-align: center;
+#tribute-info {
+  text-align: center;
 }
 #image {
-    width: 100%;
-    height: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-div {
+  display: block;
+  /* text-align: center; */
+  margin-left: auto;
+  margin-right: auto;
 }
