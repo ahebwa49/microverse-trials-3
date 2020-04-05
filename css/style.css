@@ -1,14 +1,30 @@
+body {
+    text-align: center;
+    background-color: #EEEEEE;
+}
 #tribute-info {
-  text-align: center;
+  display:table;
+  margin-left:25%;
+  margin-right:25%;
+  text-align: start;
+
+
 }
 #image {
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
   max-width: 100%;
   height: auto;
 }
 
 #img-div {
-  display: block;
-  /* text-align: center; */
-  margin-left: auto;
-  margin-right: auto;
+ 
 }
+li {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+#title{
+    font-size: 4rem;
+} 
